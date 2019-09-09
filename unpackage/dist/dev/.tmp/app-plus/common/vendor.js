@@ -1,8 +1,8 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["common/vendor"],[
 /* 0 */
-/*!*******************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js ***!
-  \*******************************************************/
+/*!********************************!*\
+  !*** D:/项目/my/diancan/main.js ***!
+  \********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -43,9 +43,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 
 /***/ }),
 /* 4 */
-/*!**********************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/pages.json ***!
-  \**********************************************************/
+/*!***********************************!*\
+  !*** D:/项目/my/diancan/pages.json ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -81,9 +81,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 /* 12 */
-/*!**************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/store/index.js ***!
-  \**************************************************************/
+/*!***************************************!*\
+  !*** D:/项目/my/diancan/store/index.js ***!
+  \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -103,9 +103,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 /* 14 */
-/*!**********************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/api/api.js ***!
-  \**********************************************************/
+/*!***********************************!*\
+  !*** D:/项目/my/diancan/api/api.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -114,9 +114,9 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 
 /***/ }),
 /* 15 */
-/*!***********************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/untils/request/index.js ***!
-  \***********************************************************************/
+/*!************************************************!*\
+  !*** D:/项目/my/diancan/untils/request/index.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -125,9 +125,9 @@ eval("/* WEBPACK VAR INJECTION */(function(__f__) {Object.defineProperty(exports
 
 /***/ }),
 /* 16 */
-/*!*************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/untils/request/request.js ***!
-  \*************************************************************************/
+/*!**************************************************!*\
+  !*** D:/项目/my/diancan/untils/request/request.js ***!
+  \**************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -136,9 +136,9 @@ eval("/* WEBPACK VAR INJECTION */(function(__f__, uni) {Object.defineProperty(ex
 
 /***/ }),
 /* 17 */
-/*!********************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/assets/css/main.styl ***!
-  \********************************************************************/
+/*!*********************************************!*\
+  !*** D:/项目/my/diancan/assets/css/main.styl ***!
+  \*********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -146,9 +146,9 @@ eval("// extracted by mini-css-extract-plugin//# sourceURL=[module]\n//# sourceM
 
 /***/ }),
 /* 18 */
-/*!**************************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js?{"page":"pages%2Fmain%2Fmain"} ***!
-  \**************************************************************************************/
+/*!***************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2Fmain%2Fmain"} ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -192,9 +192,9 @@ eval("/**\n * Copyright (c) 2014-present, Facebook, Inc.\n *\n * This source cod
 
 /***/ }),
 /* 27 */
-/*!****************************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js?{"page":"pages%2Flogin%2Flogin"} ***!
-  \****************************************************************************************/
+/*!*****************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2Flogin%2Flogin"} ***!
+  \*****************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -208,9 +208,9 @@ eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! 
 /* 31 */,
 /* 32 */,
 /* 33 */
-/*!**********************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/service.js ***!
-  \**********************************************************/
+/*!***********************************!*\
+  !*** D:/项目/my/diancan/service.js ***!
+  \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -223,9 +223,9 @@ eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, 
 /* 36 */,
 /* 37 */,
 /* 38 */
-/*!************************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js?{"page":"pages%2Freg%2Freg"} ***!
-  \************************************************************************************/
+/*!*************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2Freg%2Freg"} ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -239,9 +239,9 @@ eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! 
 /* 42 */,
 /* 43 */,
 /* 44 */
-/*!************************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js?{"page":"pages%2Fpwd%2Fpwd"} ***!
-  \************************************************************************************/
+/*!*************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2Fpwd%2Fpwd"} ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -255,14 +255,66 @@ eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! 
 /* 48 */,
 /* 49 */,
 /* 50 */
-/*!**************************************************************************************!*\
-  !*** C:/Users/liujingnuo/Documents/test/点菜系统/main.js?{"page":"pages%2Fuser%2Fuser"} ***!
-  \**************************************************************************************/
+/*!***************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2Fuser%2Fuser"} ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);\n\nvar _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 3));\nvar _user = _interopRequireDefault(__webpack_require__(/*! ./pages/user/user.vue */ 51));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}\ncreatePage(_user.default);\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ 1)[\"createPage\"]))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbImNyZWF0ZVBhZ2UiLCJQYWdlIl0sIm1hcHBpbmdzIjoia0RBQUE7O0FBRUE7QUFDQSx5RjtBQUNBQSxVQUFVLENBQUNDLGFBQUQsQ0FBVixDIiwiZmlsZSI6IjUwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICd1bmktcGFnZXMnO1xuXG5pbXBvcnQgVnVlIGZyb20gJ3Z1ZScgICAgICAgICAgICBcbmltcG9ydCBQYWdlIGZyb20gJy4vcGFnZXMvdXNlci91c2VyLnZ1ZSdcbmNyZWF0ZVBhZ2UoUGFnZSkiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///50\n");
+
+/***/ }),
+/* 51 */,
+/* 52 */,
+/* 53 */,
+/* 54 */,
+/* 55 */,
+/* 56 */
+/*!***************************************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2FbasicInformation%2FbasicInformation"} ***!
+  \***************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);\n\nvar _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 3));\nvar _basicInformation = _interopRequireDefault(__webpack_require__(/*! ./pages/basicInformation/basicInformation.vue */ 57));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}\ncreatePage(_basicInformation.default);\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ 1)[\"createPage\"]))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbImNyZWF0ZVBhZ2UiLCJQYWdlIl0sIm1hcHBpbmdzIjoia0RBQUE7O0FBRUE7QUFDQSw2SDtBQUNBQSxVQUFVLENBQUNDLHlCQUFELENBQVYsQyIsImZpbGUiOiI1Ni5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCAndW5pLXBhZ2VzJztcblxuaW1wb3J0IFZ1ZSBmcm9tICd2dWUnICAgICAgICAgICAgXG5pbXBvcnQgUGFnZSBmcm9tICcuL3BhZ2VzL2Jhc2ljSW5mb3JtYXRpb24vYmFzaWNJbmZvcm1hdGlvbi52dWUnXG5jcmVhdGVQYWdlKFBhZ2UpIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///56\n");
+
+/***/ }),
+/* 57 */,
+/* 58 */,
+/* 59 */,
+/* 60 */,
+/* 61 */,
+/* 62 */,
+/* 63 */,
+/* 64 */,
+/* 65 */,
+/* 66 */,
+/* 67 */,
+/* 68 */,
+/* 69 */,
+/* 70 */,
+/* 71 */,
+/* 72 */,
+/* 73 */,
+/* 74 */,
+/* 75 */,
+/* 76 */,
+/* 77 */,
+/* 78 */,
+/* 79 */,
+/* 80 */,
+/* 81 */,
+/* 82 */
+/*!**********************************************************************************!*\
+  !*** D:/项目/my/diancan/main.js?{"page":"pages%2FbasicInformation%2Fdesk%2Fdesk"} ***!
+  \**********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("/* WEBPACK VAR INJECTION */(function(createPage) {__webpack_require__(/*! uni-pages */ 4);\n\nvar _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 3));\nvar _desk = _interopRequireDefault(__webpack_require__(/*! ./pages/basicInformation/desk/desk.vue */ 83));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}\ncreatePage(_desk.default);\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/uni-app-plus/dist/index.js */ 1)[\"createPage\"]))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbImNyZWF0ZVBhZ2UiLCJQYWdlIl0sIm1hcHBpbmdzIjoia0RBQUE7O0FBRUE7QUFDQSwwRztBQUNBQSxVQUFVLENBQUNDLGFBQUQsQ0FBVixDIiwiZmlsZSI6IjgyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICd1bmktcGFnZXMnO1xuXG5pbXBvcnQgVnVlIGZyb20gJ3Z1ZScgICAgICAgICAgICBcbmltcG9ydCBQYWdlIGZyb20gJy4vcGFnZXMvYmFzaWNJbmZvcm1hdGlvbi9kZXNrL2Rlc2sudnVlJ1xuY3JlYXRlUGFnZShQYWdlKSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///82\n");
 
 /***/ })
 ]]);

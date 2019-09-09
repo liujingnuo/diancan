@@ -81,7 +81,7 @@
         }
       }
     },
-    "arguments": "{\"id\":0,\"pathName\":\"pages/main/main\"}",
+    "arguments": "{\"id\":2,\"pathName\":\"pages/basicInformation/desk/desk\"}",
     "allowsInlineMediaPlayback": true,
     "uni-app": {
       "compilerVersion": "2.2.2",

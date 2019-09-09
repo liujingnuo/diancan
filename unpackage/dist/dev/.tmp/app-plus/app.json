@@ -4,7 +4,9 @@
     "pages/login/login",
     "pages/reg/reg",
     "pages/pwd/pwd",
-    "pages/user/user"
+    "pages/user/user",
+    "pages/basicInformation/basicInformation",
+    "pages/basicInformation/desk/desk"
   ],
   "window": {
     "navigationBarTextStyle": "white",

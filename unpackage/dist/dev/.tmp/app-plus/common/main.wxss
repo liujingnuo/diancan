@@ -5281,7 +5281,7 @@ m-input {
 	display: -ms-flexbox;
 	display: flex;
 }
-.content {
+.container {
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -5371,6 +5371,7 @@ button.primary {
 }
 .bg-normail {
   background: #ca4341;
+  color: #fff;
 }
 view {
   color: #333;
@@ -5383,5 +5384,17 @@ view {
 }
 .checked {
   background: #ca4341;
+}
+.s-checkBox {
+  width: 40rpx;
+  height: 40rpx;
+  display: inline-block;
+  background: #808080;
+  font-size: 40rpx;
+  line-height: 40rpx;
+  color: #fff;
+}
+.check-green {
+  background: #008000;
 }
 
