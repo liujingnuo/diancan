@@ -72,8 +72,10 @@
 			}
         }
         ,{
-            "path" : "components/common/toast/toast",
-            "style" : {}
+            "path" : "pages/foodMaterials/foodMaterials",
+            "style" : {
+				"navigationBarTitleText": "菜品资料维护"
+			}
         }
     ],
 	"tabBar": {
@@ -98,7 +100,7 @@
 		"backgroundColor": "#fbf9fe"
 	},
 	"condition": { //模式配置，仅开发期间生效
-		"current": 2, //当前激活的模式（list 的索引项）
+		"current": 3, //当前激活的模式（list 的索引项）
 		"list": [
 			{
 				"path": "pages/main/main" //启动页面，必选
@@ -108,6 +110,9 @@
 			},
 			{
 				"path": "pages/basicInformation/desk/desk" //桌台设置
+			},
+			{
+				"path": "pages/foodMaterials/foodMaterials" //菜品资料
 			}
 		]
 	}

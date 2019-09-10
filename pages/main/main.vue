@@ -28,7 +28,7 @@
 							<text class="text-grey">交接班</text>
 						</view>
 					</view>
-					<view class="cu-item" :class="menuArrow ? 'arrow' : ''">
+					<view @tap="routerPush(3)" class="cu-item" :class="menuArrow ? 'arrow' : ''">
 						<view class="content text-left flex-direction">
 							<text class="cuIcon-circlefill text-grey"></text>
 							<text class="text-grey">菜品资料维护</text>
@@ -77,7 +77,7 @@ export default {
 				"",
 				"",
 				"",
-				"",
+				"../foodMaterials/foodMaterials",
 				"",
 				'../basicInformation/basicInformation']
 		};
@@ -91,6 +91,7 @@ export default {
 	},
 	methods: {
 		routerPush(n) {
+			console.log(this.routerArr[n])
 			uni.navigateTo({
 				url: this.routerArr[n]
 			});

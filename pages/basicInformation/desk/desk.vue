@@ -49,26 +49,28 @@
 					<form @submit="formSubmit" @reset="formReset">
 						<view class="cu-form-group">
 							<view class="title">台号</view>
-							<input placeholder="" name="number" :value="form.number" />
+							<input placeholder="" name="number" :value="form.number" ></input>
 						</view>
 						<view class="cu-form-group">
 							<view class="title">台名</view>
-							<input placeholder="" name="name" :value="form.name" />
+							<input placeholder="" name="name" :value="form.name" ></input>
 						</view>
 						<view class="cu-form-group">
 							<view class="title">区域</view>
-							<input placeholder="" name="area" :value="form.area" />
+							<input placeholder="" name="area" :value="form.area" ></input>
 						</view>
 						<view class="cu-form-group">
 							<view class="title">包间费</view>
-							<input placeholder="" name="room" :value="form.room" />
+							<input placeholder="" name="room" :value="form.room" ></input>
 						</view>
 						<view class="cu-form-group">
 							<view class="title">座位数</view>
-							<input placeholder="" name="seating" :value="form.seating" />
+							<input placeholder="" name="seating" :value="form.seating" ></input>
 						</view>
-						<button ref="submit" formType="submit" style="width: 0;height: 0;">Submit</button>
-						<button ref="reset" formType="reset" style="width: 0;height: 0;">Submit</button>
+						<view class="uni-btn-v">
+						                    <button formType="submit">Submit</button>
+						                    <button type="default" formType="reset">Reset</button>
+						                </view>
 					</form>
 				</view>
 			</view>
@@ -89,9 +91,9 @@ export default {
 				name: '',
 				area: '',
 				room: '',
-				seating: '',
+				seating: ''
 			},
-				status: ''
+			status: ''
 		};
 	},
 	onLoad() {
@@ -118,8 +120,7 @@ export default {
 			this.$refs.submit.$el.click();
 		},
 		formSubmit(e) {
-			if(this.status=='add'){
-				
+			if (this.status == 'add') {
 				let obj = JSON.parse(JSON.stringify(e.detail.value));
 				obj.show = true;
 				this.dataList.push(obj);
@@ -130,14 +131,14 @@ export default {
 
 				this.$refs.reset.$el.click();
 			}
-			if(this.status=='change'){
+			if (this.status == 'change') {
 				let obj = JSON.parse(JSON.stringify(e.detail.value));
-				obj.show = this.dataList[this.active].show
-				this.$set(this.dataList,this.active,obj)
+				obj.show = this.dataList[this.active].show;
+				this.$set(this.dataList, this.active, obj);
 				this.setData(); //保存本地数据
-				
+
 				this.modalName = '';
-				
+
 				this.$refs.reset.$el.click();
 			}
 		},
