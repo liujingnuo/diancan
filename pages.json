@@ -71,6 +71,10 @@
 				"navigationBarTitleText": "桌台设置"
 			}
         }
+        ,{
+            "path" : "components/common/toast/toast",
+            "style" : {}
+        }
     ],
 	"tabBar": {
 		"color": "#7a7e83",
